@@ -4,3 +4,4 @@ ax^2+bx+c=0
 
 m_dot1[h1+u1^2/2]+Q_dot=m_dot2[h2+u2^2]+W_dot
 gamma=CP/CV
+CP=gamma/gamma-1
